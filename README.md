@@ -1,3 +1,4 @@
+João Vitor Ribeiro
 # Função removerDuplicatas
 
 Essa função recebe uma lista de números inteiros e retorna uma nova lista com os elementos duplicados removidos, mantendo a ordem da primeira ocorrência.
